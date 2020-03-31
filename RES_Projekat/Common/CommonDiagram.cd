@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Common.ApplicationDbContext">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAkAAAAAAAAAAAAAAAAAAAAEAQAAAAAAA=</HashCode>
+      <FileName>ApplicationDbContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.DbTools.DbGenerator">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAoAACAQAAAAEAEAAAEAEAAAAEEAAAABAACAAAA=</HashCode>
+      <FileName>DbTools\DbGenerator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Common.DbTools.DbGroup">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAEAAAAAAAAAAAAECAAAAAAAAAAAA=</HashCode>
+      <FileName>DbTools\DbGroup.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Common.DbTools.DbLocalController">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAEAAAAIAAAAAAAEAAAAAAAAEAAAA=</HashCode>
+      <FileName>DbTools\DbLocalController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Common.DbTools.DbSystemController">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAFAAAAQAAAAAAAAACAAAAUAAAAAAAAAACAA=</HashCode>
+      <FileName>DbTools\DbSystemController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Configuration">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Migrations\Configuration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Model.Generator" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQGBEEEAAQABgEAIAIhAAAAoAABAAgAAQIIAAACBgA=</HashCode>
+      <FileName>Model\Generator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Common.Model.Group">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBACAACAAAAAgEAAABBgAAAAIAAAAAABAAAAAQgAAgA=</HashCode>
+      <FileName>Model\Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Model.LocalController">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAECAAAAAgABAAAAgQIAAIACAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Model\LocalController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Model.Measurement">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCAAAAAAAAAAAAAAAAAAAAAAAAACABAAAgAQAAggA=</HashCode>
+      <FileName>Model\Measurement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.Model.SystemController" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAABAIAAAQAAAgAAQAAAAEAAAAAAAAgA=</HashCode>
+      <FileName>Model\SystemController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Enum Name="Common.Enums.EControl">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\EControl.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Common.Enums.EType">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAEAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\EType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
